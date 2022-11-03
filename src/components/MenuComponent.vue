@@ -10,6 +10,11 @@
                     <li class="nav-item">
                     <router-link class="nav-link active" aria-current="page" to="/">หน้าแรก</router-link>
                     </li>
+
+                    <li class="nav-item">
+                    <router-link class="nav-link" to="/profile">ประวัติส่วนตัว</router-link>
+                    </li>
+
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         เกี่ยวกับเรา
