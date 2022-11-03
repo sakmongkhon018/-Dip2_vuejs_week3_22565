@@ -3,10 +3,10 @@
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="http://202.29.230.21/uploads/slider/1665813445.jpg" class="d-block w-100" alt="Slide1">
+                <img src="http://www.trattc.ac.th/uploads/slider/1665813445.jpg" class="d-block w-100" alt="Slide1">
                 </div>
                 <div class="carousel-item">
-                <img src="http://202.29.230.21/uploads/slider/1664014398.jpg" class="d-block w-100" alt="Slide2">
+                <img src="http://www.trattc.ac.th/uploads/slider/1664014398.jpg" class="d-block w-100" alt="Slide2">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
